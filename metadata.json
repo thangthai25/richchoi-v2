@@ -1,0 +1,8 @@
+{
+  "name": "RICHCHOI Luxury Hotel",
+  "description": "5-Star Luxury Hotel Management & Booking System with AI Concierge",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
