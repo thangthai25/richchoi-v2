@@ -127,8 +127,8 @@ const Footer: React.FC = () => {
         <div>
           <h4 className="font-bold mb-4 uppercase text-sm tracking-wider text-gold-400">{t.contact}</h4>
           <p className="text-gray-400 text-sm mb-2">{t.address}</p>
-          <p className="text-gray-400 text-sm">reservation@richchoi.com</p>
-          <p className="text-gray-400 text-sm">+84 999 999 999</p>
+          <p className="text-gray-400 text-sm">thangthai6009@gmail.com</p>
+          <p className="text-gray-400 text-sm">+84 963285951</p>
         </div>
         <div>
            <h4 className="font-bold mb-4 uppercase text-sm tracking-wider text-gold-400">Connect</h4>
